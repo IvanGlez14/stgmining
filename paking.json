@@ -1,0 +1,59 @@
+{
+    "company": {
+        "name": "STG Mining Supplies Ltd.",
+        "address": "164 Fielding Rd",
+        "city": "Lively",
+        "state": "Ontario",
+        "country": "Canada",
+        "zip": "P3Y 1L5",
+        "phone": "+1 604 770 4204",
+        "email": "salescanada@stgmining.com"
+    },
+    "pages": [
+        {
+            "lines": [
+                {
+                    "lineNumber": "1",
+                    "partNumber": "800086",
+                    "description": "Sieve US#80, 12in, FH, SS, SS",
+                    "quantity": 2,
+                    "unitPrice": "270.95",
+                    "netPrice": "541.90"
+                },
+                {
+                    "lineNumber": "2",
+                    "partNumber": "800393",
+                    "description": "Sieve US #200, 12in, Full Height, SS, SS",
+                    "quantity": 1,
+                    "unitPrice": "270.95",
+                    "netPrice": "270.95"
+                }
+            ]
+        }
+    ],
+    "shipTo": {
+        "name": "AGAT Laboratories",
+        "address": "1046 Gorman St",
+        "city": "THUNDER BAY",
+        "state": "Ontario",
+        "zip": "P7B 5X5",
+        "country": "Canada"
+    },
+    "invoiceTo": {
+        "name": "AGAT Laboratories",
+        "address": "2905 12th St. NE.",
+        "city": "Calgary",
+        "state": "Alberta",
+        "zip": "T2E 7J2",
+        "country": "Canada",
+        "email": "payables@agatlabs.com"
+    },
+    "currency": "USD",
+    "incoterms": "EXW",
+    "plNumber": "PL01008",
+    "notes": "",
+    "poNumber": "212135",
+    "terms": "Net 30",
+    "shipVia": "Purolator",
+    "shipDate": "2023-08-10"
+}
